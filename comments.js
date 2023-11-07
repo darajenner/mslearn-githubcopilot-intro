@@ -1,4 +1,4 @@
-// Create Web Server with Express
+// Create web server
 const express = require('express');
 const app = express();
 
